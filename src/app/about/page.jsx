@@ -1,0 +1,13 @@
+function AboutPage() {
+  return (
+    <div className="p-10 text-center">
+        <h1 className="my-4 text-2xl font-bold">About</h1>
+
+        <p className="text-gray-300">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, nulla obcaecati dolorem illo culpa eaque repellendus omnis soluta ullam id. Doloribus, odio. Harum non nisi reiciendis quod tenetur odit iusto quisquam. Quae aperiam dolor, hic, aliquam nobis laudantium quibusdam beatae at quaerat consequuntur optio nemo itaque! Iste, iusto! Quae voluptates rem dolorem aliquam eligendi maxime in voluptatem magnam quidem, doloribus consequatur ipsam perspiciatis ipsum! Maxime sunt cupiditate, et ratione fugit aliquam quas, minima pariatur neque impedit facilis laborum tempore corrupti, iusto sit? Ducimus eius eaque eveniet temporibus saepe animi ipsam! Soluta quod velit ab dolorem repellat quisquam magni eveniet molestias alias necessitatibus, aliquam recusandae veniam dolor dicta eum, harum sit quaerat inventore ea nostrum unde officiis ipsum? Non fugiat ipsum soluta reprehenderit quidem nam cum! Quisquam, minus! Fuga aliquid a voluptate nihil distinctio alias, laboriosam ea ipsum amet provident, natus cupiditate deserunt vero quaerat tempora, in quidem omnis! Quo sunt nobis totam perspiciatis neque a exercitationem ratione consequuntur ipsam minus illum quas enim, sint molestiae quaerat excepturi nostrum fuga eum magni natus voluptas nulla mollitia atque. Dolorem similique maxime sequi laudantium repellendus vel repudiandae qui repellat eos officiis distinctio quae beatae quaerat eum quos, quibusdam dolor tempora nulla ut nam eaque iste obcaecati ipsum? Est maxime assumenda harum explicabo dignissimos nemo aliquid debitis saepe quam voluptatum ratione soluta quo minus delectus at reiciendis autem facilis, ut illum a similique nihil ducimus. Sunt officia, officiis quibusdam illo accusamus minus voluptatibus voluptate odit nihil mollitia ab cum doloremque repudiandae? Magnam sint id recusandae odit, porro velit minus temporibus. Numquam in beatae, rerum ipsam quasi accusamus saepe! Dolore eos temporibus sapiente aspernatur quibusdam! Expedita numquam assumenda iure hic dignissimos! Culpa quia molestias omnis labore debitis modi, non eos porro maxime animi dolor quae voluptas mollitia. Accusantium est vel voluptatum quod eos magni totam!
+        </p>
+    </div>
+  )
+}
+
+export default AboutPage
